@@ -1,10 +1,12 @@
 ### Dylon Crowley-Perez
+---
 
 **`Web Developer, Dedicated Leaner`**
 
 I am a self-taught web developer fueled by an unwavering passion for continuous learning and creative innovation. Every coding project I undertake is meticulously crafted from the ground up, encompassing everything from coding and UI design to every intricate detail in between.
 
 ### Languages and Tools
+---
 
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -13,7 +15,6 @@ I am a self-taught web developer fueled by an unwavering passion for continuous 
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>
 
----
 
 ### Github stats
 
