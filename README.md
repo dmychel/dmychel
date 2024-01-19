@@ -4,7 +4,7 @@
 
 I'm a self taught web developer with a burning passion to learn and create. All of my coding projects are built form the ground up, from coding and UI designing to everything in between.
 
-<a  target="_blank" href="https://dmychel.github.io/dyloncrowley-portfolio/">Portfolio</a>
+<a  target="_blank" href="https://tiny-sundae-18443d.netlify.app/">Portfolio</a>
 
 #
 
