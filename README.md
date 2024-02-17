@@ -4,7 +4,7 @@
 
 I'm a self taught web developer with a burning passion to learn and create. 
 
-<a href="https://dyloncrowley.netlify.app/" target="_blank">Portfolio</a>
+<a href="https://dyloncrowley.tech/" target="_blank">Portfolio</a>
 
 #
 
