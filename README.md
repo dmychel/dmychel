@@ -23,4 +23,9 @@ I'm a self taught web developer with a burning passion to learn and create.
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
 
+#
+
+<br></br>
+![Dylon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmychel&show_icons=true&theme=blue-green)
+
 
