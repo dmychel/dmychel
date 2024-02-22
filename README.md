@@ -29,6 +29,6 @@ I'm a self taught web developer with a burning passion to learn and create.
 <br/>
 
 
-![Dylon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmychel&show_icons=true&theme=blue-green)
+![Dylon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmychel&show_icons=true&theme=default)
 
 
